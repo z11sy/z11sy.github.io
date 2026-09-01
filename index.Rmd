@@ -1,5 +1,5 @@
 ---
-title: "Project 0"
+title: "Shiyi Zhang"
 author: Shiyi Zhang
 image: "shiyi.jpg"
 links:
