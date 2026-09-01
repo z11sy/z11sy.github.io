@@ -1,13 +1,20 @@
 ---
 title: "Project 0"
 author: Shiyi Zhang
+image: "shiyi.jpg"
+links:
+
+  - label: GitHub
+    url: "https://github.com/z11sy"
+  - label: Email
+    url: "mailto:szhan323@jhu.edu"
 ---
  
 # About 
 
 ## Hi
 
-I'm Shiyi Zhang, a first year ScM student of the Biostatisitcs Department. I graduated from Smith College with a B.A in Neuroscience. My past research experiences were mainly in the area molecular neuroscience i.e. signaling pathways of neurogenesis, molecular profile of adult neurogenesis. 
+I'm Shiyi Zhang, a first year ScM student of the Biostatisitics Department. I graduated from Smith College with a B.A in Neuroscience. My past research experiences were mainly in the area molecular neuroscience i.e. signaling pathways of neurogenesis, molecular profile of adult neurogenesis. 
 
 ## Statistics Background
 
@@ -21,10 +28,12 @@ I found statistics very interesting in my third year at Smith through taking the
 4) I eat everything with cheese. (You should try goat cheese with Chinese buns)
 5) When stressed, I start to make travel plans. 
 
-## For Cooking Lovers
+## For cooking lovers like me 
 
-Click here to visit
-[inspiring tips](https://modernistcuisine.com/mc/using-the-maillard-reaction-in-cooking/)
+Here are some very interesting cookbooks that I enjoy reading:
+1. SIMPLE by Ottolenghi (The recipe is easy to follow and for each dish, there is a dish picture that helps you to visualize the final product.)
+2. Six Seasons of Pasta by Joshua McFadden (The book is organized by seasons, which is very helpful for cooking with fresh ingredients.)
+3. Dac Biet by Nini Nguyen (Shaking beef with watercress salad is a must-try dish in this book.)
 
 
 
