@@ -3,11 +3,12 @@ title: "Project 0"
 author: Shiyi Zhang
 image: "shiyi.jpg"
 links:
-
   - label: GitHub
     url: "https://github.com/z11sy"
   - label: Email
     url: "mailto:szhan323@jhu.edu"
+output:
+  postcards::trestles
 ---
  
 # About 
