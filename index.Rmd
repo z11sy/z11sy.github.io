@@ -1,14 +1,14 @@
 ---
 title: "Shiyi Zhang"
-author: Shiyi Zhang
 image: "shiyi.jpg"
+
 links:
-	- label: `r fontawesome::fa("github", fill = "steelblue")` GitHub
-		url: "https://github.com/z11sy"
-    - label: `r fontawesome::fa("envelope", fill = "steelblue")` Email
-		url: "mailto:szhan323@jhu.edu"
+  - label: '`r fontawesome::fa("github", fill = "steelblue")` GitHub'
+    url: "https://github.com/z11sy"
+  - label: '`r fontawesome::fa("envelope", fill = "steelblue")` Email'
+    url: "mailto:szhan323@jhu.edu"
 output:
-	postcards::trestles
+  postcards::trestles
 ---
  
  ```{r, message=FALSE, echo=FALSE, include = FALSE}
@@ -18,7 +18,7 @@ output:
 
 # About Me
 
-## 👋Hi
+## 👋 Hi
 
 I'm Shiyi Zhang, a first year ScM student of the Biostatisitics Department. I graduated from `r fontawesome::fa("graduation-cap", fill = "steelblue")` [Smith College](https://www.smith.edu/) with a B.A in Neuroscience. My past research experiences were mainly in the area molecular neuroscience i.e. signaling pathways of neurogenesis, molecular profile of adult neurogenesis. 
 
@@ -41,8 +41,4 @@ Here are some very interesting cookbooks that I enjoy reading:
 1. SIMPLE by Ottolenghi (The recipe is easy to follow and for each dish, there is a dish picture that helps you to visualize the final product).
 2. Six Seasons of Pasta by Joshua McFadden (The book is organized by seasons, which is very helpful for cooking with fresh ingredients). 
 3. Dac Biet by Nini Nguyen (Shaking beef with watercress salad is a must-try dish in this book). 
-
-
-
-
 
